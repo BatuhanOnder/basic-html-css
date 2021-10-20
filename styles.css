@@ -1,0 +1,48 @@
+body{ 
+    background-color: blanchedalmond;
+    font-size: 125%;
+    
+}
+h1{
+    color : blueviolet;
+}
+p{
+    color : black;
+    border: 2px solid red;
+    margin: auto;
+    padding: 30px;
+}
+
+pre{
+    background-color: azure;
+}
+
+cite{
+   border: 2px solid tomato; 
+}
+h3 {
+   font-family:verdana; 
+}
+a:link {
+  color: green;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
